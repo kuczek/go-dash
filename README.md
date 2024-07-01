@@ -5,7 +5,7 @@ A [Go](https://golang.org) library for generating [MPEG-DASH](https://en.wikiped
 ## Install
 
 ```
-go get -u github.com/zencoder/go-dash
+go get -u github.com/kuczek/go-dash
 ```
 
 ## Supported Features
